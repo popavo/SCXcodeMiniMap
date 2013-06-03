@@ -11,7 +11,7 @@
 
 
 #define kDefaultZoomLevel 0.1f
-#define kRightSidePadding 10.0f
+#define kRightSidePadding 15.0f
 #define kDefaultShadowLevel 0.1f
 
 
